@@ -1,5 +1,8 @@
-- 👋 Hi, I'm Erbsensuppee
-
+- 👋 Hi, I'm Erbsensuppee.
+- 🌱 I’m interested in CyberSecurity and Software Development.
+- 🔭 I’m currently working on HTB CPTS.
+- 👯 I’m looking to collaborate on funny projects.
+- 📫 How to reach me: erbsensuppeee@gmail.com
 <!--
 **Erbsensuppee/Erbsensuppee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
