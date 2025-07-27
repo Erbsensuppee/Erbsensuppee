@@ -32,6 +32,8 @@ I'm passionate about blockchain technology, decentralized finance (DeFi), and au
 
 ![Erbsensuppee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erbsensuppee&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=450)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erbsensuppee&theme=vue-dark&layout=compact&hide_border=true&card_width=450)
+
 ---
 
 ## Contact
