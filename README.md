@@ -20,8 +20,8 @@ I like coding for the Solana ecosystem, focusing on trading bots and utilities. 
 
 - Blockchain: Solana, DeFi, SPL tokens
 - Automation: Trading bots
-- Coding: JavaScript, Node.js, Rust, C
-- Embedded Systems: ESP32
+- Coding: Rust, C, JavaScript, Node.js
+- Embedded Systems: ESP32, STM32
 - Crypto: Market analysis
 
 ## GitHub Stats
