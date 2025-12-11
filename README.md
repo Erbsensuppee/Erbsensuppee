@@ -26,9 +26,43 @@ I like coding for the Solana ecosystem, focusing on trading bots and utilities. 
 
 ## GitHub Stats
 
-| **Stats** | **Top Languages** |
-|-----------|-------------------|
-| ![Erbsensuppee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erbsensuppee&theme=radical&show_icons=true&hide_border=true&layout=compact&card_width=450) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erbsensuppee&theme=radical&layout=compact&hide_border=true&card_width=450) |
+## Top Languages
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=c" width="60" /></td>
+    <td><img src="https://skillicons.dev/icons?i=rust" width="60" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" width="60" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>C</b></td>
+    <td align="center"><b>Rust</b></td>
+    <td align="center"><b>JavaScript</b></td>
+  </tr>
+</table>
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erbsensuppee&theme=dracula" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erbsensuppee&theme=dracula" />
+    </td>
+  </tr>
+</table>
+
+## Contributions
+
+| Project | Contribution |
+|--------|--------------|
+| Helius Rust SDK | Improved and fixed the [`enhanced_websocket_transactions.rs`](https://github.com/helius-labs/helius-rust-sdk/blob/dev/examples/enhanced_websocket_transactions.rs). |
+
+
 
 ## Contact
 
