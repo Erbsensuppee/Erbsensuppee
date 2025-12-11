@@ -60,7 +60,7 @@ I like coding for the Solana ecosystem, focusing on trading bots and utilities. 
 
 | Project | Contribution |
 |--------|--------------|
-| Helius Rust SDK | Improved and fixed the [`enhanced_websocket_transactions.rs`](https://github.com/helius-labs/helius-rust-sdk/blob/dev/examples/enhanced_websocket_transactions.rs). |
+| Helius Rust SDK | Improved the [`enhanced_websocket_transactions.rs`](https://github.com/helius-labs/helius-rust-sdk/blob/dev/examples/enhanced_websocket_transactions.rs). |
 
 
 
