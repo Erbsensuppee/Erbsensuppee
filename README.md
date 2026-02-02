@@ -11,6 +11,7 @@ I like coding for the Solana ecosystem, focusing on trading bots and utilities. 
 | Project | Description |
 |---------|-------------|
 | [pumpfun-pumpswap-sdk](https://github.com/Erbsensuppee/pumpfun-pumpswap-sdk) | A Node.js SDK for buying and selling tokens on Pump.fun and PumpSwap on Solana. |
+| [pump-cpi-adapter](https://github.com/Erbsensuppee/pump-cpi-adapter) | An Anchor-based CPI adapter for Pump.fun enforcing exact SOL input execution. |
 | [pumpfun-curve-query](https://github.com/Erbsensuppee/pumpfun-curve-query) | A Rust CLI tool to check Pump.fun bonding curve data, like reserves and status. |
 | [buyBot](https://github.com/Erbsensuppee/buyBot) | A bot for automated token buying and selling on Solana. |
 | [solanaVanityBot](https://github.com/Erbsensuppee/solanaVanityBot) | A tool to generate custom Solana wallet addresses. |
@@ -70,5 +71,4 @@ Message me on [Telegram](https://t.me/Xipy420) if you want to chat or work toget
 
 ## License
 
-© 2025 Erbsensuppee  
-"Code is poetry."
+© 2026 Erbsensuppee  
